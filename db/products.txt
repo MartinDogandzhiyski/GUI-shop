@@ -1,0 +1,4 @@
+{"id": 1, "name": "Laptop", "img": "laptop.jpg", "price": 2.56, "count": 5}
+{"id": 2, "name": "Laptop", "img": "lap.jpg", "price": 4.56, "count": 3}
+{"id": 3, "name": "Laptop", "img": "laapp.png", "price": 5.56, "count": 4}
+{"id": 4, "name": "Laptop", "img": "aa.jpg", "price": 8.56, "count": 6}
